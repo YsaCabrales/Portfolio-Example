@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Afacad";
+}
+
+.navbar {
+    background: transparent;
+    font-size: 20px;
+}
+
+.navbar-brand {
+    font-family: 'Whisper';
+    font-size: 40px;
+    color: black;
+    text-shadow:  1px 1px #B20600, 2px 2px #FF5F00;  
+}
+
+.nav-link.selected {
+    color: #B20600;
+    font-weight: bold;
+}
+
+.content {
+    margin-top: 30px;
+}
+
+.sample-img {
+    width: 230px;
+}
+
+h1 {
+    font-weight: bolder;
+}
+
+span {
+    color: #B20600;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #FF5F00;
+}
+
+.project {
+    width: 100%;
+}
