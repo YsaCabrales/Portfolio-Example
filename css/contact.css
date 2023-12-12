@@ -22,6 +22,24 @@
     font-weight: bold;
 }
 
-.content {
-    margin-top: 30px;
+.intro {
+    padding-top: 10%;
+}
+
+h3 span {
+    color: #B20600;
+    font-weight: bold;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    margin: 50px;
+    font-size: 15px;
+}
+
+footer a {
+    text-decoration: none;
+    color: black;
+    margin: 0 15px;
 }
